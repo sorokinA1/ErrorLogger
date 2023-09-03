@@ -1,0 +1,15 @@
+/Users/artem/Desktop/C#/MainCourse/05-ErrorHandling/GameDataParser/bin/Debug/net7.0/GameDataParser
+/Users/artem/Desktop/C#/MainCourse/05-ErrorHandling/GameDataParser/bin/Debug/net7.0/GameDataParser.deps.json
+/Users/artem/Desktop/C#/MainCourse/05-ErrorHandling/GameDataParser/bin/Debug/net7.0/GameDataParser.runtimeconfig.json
+/Users/artem/Desktop/C#/MainCourse/05-ErrorHandling/GameDataParser/bin/Debug/net7.0/GameDataParser.dll
+/Users/artem/Desktop/C#/MainCourse/05-ErrorHandling/GameDataParser/bin/Debug/net7.0/GameDataParser.pdb
+/Users/artem/Desktop/C#/MainCourse/05-ErrorHandling/GameDataParser/obj/Debug/net7.0/GameDataParser.csproj.AssemblyReference.cache
+/Users/artem/Desktop/C#/MainCourse/05-ErrorHandling/GameDataParser/obj/Debug/net7.0/GameDataParser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artem/Desktop/C#/MainCourse/05-ErrorHandling/GameDataParser/obj/Debug/net7.0/GameDataParser.AssemblyInfoInputs.cache
+/Users/artem/Desktop/C#/MainCourse/05-ErrorHandling/GameDataParser/obj/Debug/net7.0/GameDataParser.AssemblyInfo.cs
+/Users/artem/Desktop/C#/MainCourse/05-ErrorHandling/GameDataParser/obj/Debug/net7.0/GameDataParser.csproj.CoreCompileInputs.cache
+/Users/artem/Desktop/C#/MainCourse/05-ErrorHandling/GameDataParser/obj/Debug/net7.0/GameDataParser.dll
+/Users/artem/Desktop/C#/MainCourse/05-ErrorHandling/GameDataParser/obj/Debug/net7.0/refint/GameDataParser.dll
+/Users/artem/Desktop/C#/MainCourse/05-ErrorHandling/GameDataParser/obj/Debug/net7.0/GameDataParser.pdb
+/Users/artem/Desktop/C#/MainCourse/05-ErrorHandling/GameDataParser/obj/Debug/net7.0/GameDataParser.genruntimeconfig.cache
+/Users/artem/Desktop/C#/MainCourse/05-ErrorHandling/GameDataParser/obj/Debug/net7.0/ref/GameDataParser.dll
